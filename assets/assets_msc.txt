@@ -1,0 +1,1 @@
+#Txt file to create assets folder and document anything needed for this folder.
